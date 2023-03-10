@@ -9,6 +9,6 @@ thumbnail: smac-thumbnail.png
 alt: image-alt
 project-date: February 2020
 category: Learning 
-description: Our hands-on skills training programs are highly responsive to each organization's business processes. We offer the Chartered Grant Writer (R) designation and workshops to help professionals achieve breakthroughs with our proprietary curriculum.    
+description: Our hands-on skills training programs are highly responsive to each organization's business processes. We offer the Chartered Grant Writer certification and workshops to help professionals achieve breakthroughs with our proprietary curriculum.    
 
 ---
