@@ -9,6 +9,6 @@ thumbnail: codify-thumbnail.png
 alt: image-alt
 project-date: February 2020
 category: Business Development
-description: Besides helping develop high-impact business cases, we also help achieve the awards, including rebates and subsidies. We employ data science for analytics and cloud tools for record-keeping and knowledge management.   
+description: Besides crafting high-impact business cases, we also help achieve the awards, including rebates and subsidies. We employ data science for analytics and cloud tools for record-keeping and knowledge management.   
 
 ---
