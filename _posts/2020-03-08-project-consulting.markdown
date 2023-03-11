@@ -9,6 +9,6 @@ thumbnail: codify-thumbnail.png
 alt: image-alt
 project-date: February 2020
 category: Business Development
-description: Besides helping develop relevant business cases, we also supply the tools for achieving the tax rebate process deliverables. We employ data science for machine-learning-enabled analytics and cloud computing tools for record-keeping, knowledge management, and filing.   
+description: Besides helping develop high-impact business cases, we also help achieve the awards, including rebates and subsidies. We employ data science for analytics and cloud tools for record-keeping and knowledge management.   
 
 ---
