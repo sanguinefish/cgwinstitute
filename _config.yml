@@ -28,8 +28,11 @@ description: "Developmental & Grant Writing Services"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
-   - title: LinkedIn
+    - title: LinkedIn
+    .fa-linkedin {
      url: https://www.linkedin.com/company/licenseacademy
+     }
+     
  # - title: facebook
  #   url:
  # - title: stack-overflow
@@ -41,7 +44,7 @@ description: "Developmental & Grant Writing Services"
 
 # Postal address (add as many lines as necessary)
 # address:
-- line: 1108 - 250 Consumers Road, #303, North York, ON M2J 4V6
+# line: 1108 - 250 Consumers Road, #303, North York, ON M2J 4V6
 #  - line: 
 
 # Build settings
