@@ -27,7 +27,9 @@ description: "Developmental & Grant Writing Services"
     #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+# social:
+<a class="btn btn-primary" style="background-color: #0082ca;" href="#!" role="button"
+  ><i class="fab fa-linkedin-in"></i></a>
    - title: LinkedIn
      url: https://www.linkedin.com/company/licenseacademy
  # - title: facebook
