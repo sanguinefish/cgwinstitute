@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: '"Playfair Display"'
-  secondary: '"Merriweather"'
+  primary: 'Serif,"Playfair Display"'
+  secondary: 'Serif,"Merriweather"'
