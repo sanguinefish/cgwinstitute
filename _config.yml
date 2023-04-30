@@ -5,8 +5,9 @@ url: https://cgw.institute
 
 # Site settings
 title: CGW Institute 
-email: info@license.academy
-description: "Developmental & Grant Writing Services"
+author: Discover / Design / Develop ~> Funding Proposals Made Easy
+email: info @ license.academy
+description: License Stack Apps
 
 
 # Team names, titles and social links
@@ -27,7 +28,11 @@ description: "Developmental & Grant Writing Services"
     #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
+social_links:
+tiktok: licenseacademy
+linkedin: licenseacademy
+#social_links: 
+social_links:
   #  - title: LinkedIn
   #  .fa-linkedin {
   #   url: https://www.linkedin.com/company/licenseacademy
