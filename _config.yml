@@ -28,11 +28,11 @@ description: License Stack Apps
     #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social_links:
-tiktok: licenseacademy
-linkedin: licenseacademy
-#social_links: 
-social_links:
+# social_links:
+# tiktok: licenseacademy
+# linkedin: licenseacademy
+
+# social_links:
   #  - title: LinkedIn
   #  .fa-linkedin {
   #   url: https://www.linkedin.com/company/licenseacademy
